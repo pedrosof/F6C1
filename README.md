@@ -19,7 +19,7 @@ Todo o processo está detalhado no notebook, incluindo os comandos executados, e
 ## 🔗 Acesse a Solução Completa
 
 - 📓 **Notebook no Google Colab / Jupyter:**  
-  [Clique aqui para abrir o notebook](https://github.com/pedrosof/F6C1/FabioMarcosPedrosoFilho_RM560665.ipynb)
+  [Clique aqui para abrir o notebook](https://github.com/pedrosof/F6C1/blob/main/FabioMarcosPedrosoFilho_RM560665.ipynb)
 
 - 🎥 **Vídeo de Demonstração (YouTube):**  
   [Assista aqui (não listado)](https://youtu.be/seu-link-do-video)
