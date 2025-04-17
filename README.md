@@ -1,4 +1,4 @@
-# 🧠 Projeto Fase 6 – Visão Computacional com YOLOv5  
+# 🧠 PROJETO FASE 6 – O COMEÇO DA REDE NEURAL 
 **Curso: FIAP - Inteligência Artificial**
 
 ## 📌 Descrição do Projeto
@@ -44,6 +44,8 @@ Todo o processo está detalhado no notebook, incluindo os comandos executados, e
 ├── FabioMarcosPedrosoFilho_RM560665.ipynb
 ├── README.md
 ```
+
+Obs: A estrutura acima está no Google Drive e aqui está apenas uma representação.
 
 ---
 
